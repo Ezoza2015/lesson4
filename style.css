@@ -1,0 +1,11 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    display: flex;
+    gap: 124px;
+    align-items: center;
+    justify-content: center;
+}
